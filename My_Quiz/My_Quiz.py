@@ -31,7 +31,6 @@ def run_quiz():
     print(f"\n🎉 You scored {score} out of {len(questions)}.")
 
 
-    #Score_History
     with open("scores.txt", "a") as f: # Archeio me to istoriko
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S") # Ora gia istoriko
         f.write(f"{now} - Score: {score} out of {len(questions)}\n")
