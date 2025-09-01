@@ -1,0 +1,77 @@
+[
+    {
+        "question": "What is the capital city of Canada?",
+        "options": ["A. Toronto", "B. Montreal", "C. Ottawa", "D. Vancouver"],
+        "answer": "C"
+    },
+    {
+        "question": "The Eiffel Tower is located in which European city?",
+        "options": ["A. Rome", "B. Paris", "C. Berlin", "D. Madrid"],
+        "answer": "B"
+    },
+    {
+        "question": "Which country is home to the ancient city of Petra?",
+        "options": ["A. Egypt", "B. Jordan", "C. Iran", "D. Turkey"],
+        "answer": "B"
+    },
+    {
+        "question": "Mount Kilimanjaro is located in which country?",
+        "options": ["A. Kenya", "B. Tanzania", "C. South Africa", "D. Ethiopia"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the only country in the world that is also a continent?",
+        "options": ["A. Greenland", "B. Australia", "C. Antarctica", "D. New Zealand"],
+        "answer": "B"
+    },
+    {
+        "question": "Which river flows through Baghdad?",
+        "options": ["A. Nile", "B. Euphrates", "C. Tigris", "D. Jordan"],
+        "answer": "C"
+    },
+    {
+        "question": "The city of Istanbul is in which country?",
+        "options": ["A. Greece", "B. Turkey", "C. Syria", "D. Bulgaria"],
+        "answer": "B"
+    },
+    {
+        "question": "The Great Barrier Reef is located off the coast of which country?",
+        "options": ["A. South Africa", "B. Australia", "C. Indonesia", "D. Brazil"],
+        "answer": "B"
+    },
+    {
+        "question": "Machu Picchu is a famous landmark in which South American country?",
+        "options": ["A. Peru", "B. Colombia", "C. Argentina", "D. Bolivia"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Thailand?",
+        "options": ["A. Hanoi", "B. Manila", "C. Bangkok", "D. Jakarta"],
+        "answer": "C"
+    },
+    {
+        "question": "Which desert covers much of northern Africa?",
+        "options": ["A. Gobi", "B. Kalahari", "C. Sahara", "D. Mojave"],
+        "answer": "C"
+    },
+    {
+        "question": "The Christ the Redeemer statue is located in which city?",
+        "options": ["A. São Paulo", "B. Buenos Aires", "C. Rio de Janeiro", "D. Lima"],
+        "answer": "C"
+    },
+    {
+        "question": "What country has the most neighboring countries?",
+        "options": ["A. Russia", "B. China", "C. Brazil", "D. India"],
+        "answer": "A"
+    },
+    {
+        "question": "The Taj Mahal is located in which Indian city?",
+        "options": ["A. Delhi", "B. Mumbai", "C. Agra", "D. Jaipur"],
+        "answer": "C"
+    },
+    {
+        "question": "Which European capital is divided by the Danube River and was once two cities?",
+        "options": ["A. Prague", "B. Vienna", "C. Budapest", "D. Bratislava"],
+        "answer": "C"
+    }
+]
