@@ -1,4 +1,4 @@
-# My_Quiz
+# Geography_Quiz
 
 ## Description
 This is a simple Python-based Quiz that allows users to answer a series of multiple-choice questions, tracks their score, and stores their past scores in a text file.
@@ -12,7 +12,7 @@ The questions are dynamically loaded from a JSON file to make it easy to update 
 - Ability to view past scores.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 
 ## Thanks for Checking Out My Project!
 If you have any questions or suggestions, don't hesitate to reach out. I appreciate your interest in my work!
